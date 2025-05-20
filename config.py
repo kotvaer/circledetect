@@ -1,6 +1,5 @@
-# config.py
-
-APP_TITLE = "V 形块夹持圆心高度测量工具"
+# 配置参数
+APP_TITLE = "智能装配视觉模块"
 WINDOW_WIDTH = 1200
 WINDOW_HEIGHT = 950
 MAX_PREVIEW_DIM = 400
